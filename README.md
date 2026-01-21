@@ -1,0 +1,1 @@
+The subscale code utilises ICM_20948, Adafruit_MPL3115A2 and Adafruit_INA3221; it updates every 100ms, writing gathered data to the SD card. The code adheres to the NASA's 7 rules for embedded programming.
